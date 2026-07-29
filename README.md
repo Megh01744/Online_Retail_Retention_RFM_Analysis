@@ -81,7 +81,7 @@ These findings suggest that protecting valuable customer relationships and encou
 
 ### Business Overview Dashboard
 
-![Business Overview Dashboard](<img width="1375" height="800" alt="Business Overview png" src="https://github.com/user-attachments/assets/8ca9afee-4ac9-4442-a3a4-6f0c73ee3658" />)
+<img width="1375" height="800" alt="Business Overview png" src="https://github.com/user-attachments/assets/8ca9afee-4ac9-4442-a3a4-6f0c73ee3658" />
 
 
 
