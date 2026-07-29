@@ -58,10 +58,10 @@ Before starting the analysis, the data was cleaned for customer behaviour, reten
 
 The cleaning process reduced the dataset from 541,909 to 392,692 transaction lines:
 
-406,829 rows remained after removing missing Customer IDs
-401,604 remained after removing exact duplicates
-392,732 remained after excluding non-positive quantities
-392,692 remained after excluding non-positive unit prices
+* 406,829 rows remained after removing missing Customer IDs
+* 401,604 remained after removing exact duplicates
+* 392,732 remained after excluding non-positive quantities
+* 392,692 remained after excluding non-positive unit prices
 
 CustomerID and InvoiceDate were converted into suitable formats, and Total_price was calculated as Quantity × UnitPrice.
 
