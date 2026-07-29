@@ -31,27 +31,39 @@ The analysis focuses on three key areas:
 
 The original dataset contains **541,909 transaction lines and 8 columns**. Each row represents one product recorded within an invoice.
 
-Initial checks identified the following issues:
+The initial review found:
 
-| Data-quality issue           | Records |   
-| ---------------------------- | ------: |
-| Missing Customer IDs         | 135,080 |
-| Missing product descriptions |   1,454 |
-| Exact duplicate rows         |   5,268 |
-| Non-positive quantities      |  10,624 |
-| Non-positive unit prices     |   2,517 |
-| Cancelled invoice rows       |   9,288 |
+* 135,080 rows without a Customer ID
+* 1,454 missing product descriptions
+* 5,268 exact duplicate rows
+* 10,624 rows with non-positive quantities
+* 2,517 rows with non-positive unit prices
+* 9,288 cancelled invoice rows
 
-### Final Analysis Tables
+### Final Analysis Data
 
-| Dataset               | Each row represents                |    Rows | Columns |
-| --------------------- | ---------------------------------- | ------: | ------: |
-| Cleaned transactions  | One positive-purchase product line | 392,692 |      10 |
-| RFM customer segments | One identifiable customer          |   4,338 |       9 |
+Two datasets were used in the final analysis:
 
-The cleaned transaction table contains `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `UnitPrice`, `CustomerID`, `Country`, `Total_price` and `Customer_Type`.
+* **Cleaned transactions:** 392,692 product-level transaction lines and 10 columns
+* **RFM customer segments:** 4,338 customer-level records and 9 columns
 
-The RFM table contains `CustomerID`, `Recency`, `Frequency`, `Monetary`, the three component scores, `RFM_Score` and `Segment`.
+The cleaned transaction data contains `InvoiceNo`, `StockCode`, `Description`, `Quantity`, `InvoiceDate`, `UnitPrice`, `CustomerID`, `Country`, `Total_price` and `Customer_Type`.
+
+The RFM data contains `CustomerID`, `Recency`, `Frequency`, `Monetary`, `R_Score`, `F_Score`, `M_Score`, `RFM_Score` and `Segment`.
+
+
+## Data Cleaning & Validation
+
+Before starting the analysis, the data was cleaned for customer behaviour, retention and RFM analysis.
+
+The cleaning process reduced the dataset from 541,909 to 392,692 transaction lines:
+
+406,829 rows remained after removing missing Customer IDs
+401,604 remained after removing exact duplicates
+392,732 remained after excluding non-positive quantities
+392,692 remained after excluding non-positive unit prices
+
+CustomerID and InvoiceDate were converted into suitable formats, and Total_price was calculated as Quantity × UnitPrice.
 
 
 
