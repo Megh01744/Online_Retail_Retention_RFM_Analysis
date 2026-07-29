@@ -65,6 +65,27 @@ The cleaning process reduced the dataset from 541,909 to 392,692 transaction lin
 
 CustomerID and InvoiceDate were converted into suitable formats, and Total_price was calculated as Quantity × UnitPrice.
 
+## Executive Summary
+***<img width="1375" height="800" alt="Business Overview png" src="https://github.com/user-attachments/assets/0c55fd46-5e43-460c-be4a-6096a963b97e" />
+<img width="1375" height="800" alt="Business Overview png" src="https://github.com/user-attachments/assets/80a40604-36fd-48c5-8f2e-4e0c3d606f58" />
+
+
+The analysis shows that the retailer’s revenue depended strongly on customers who purchased more than once.
+
+* Repeat customers represented **65.58% of customers** but generated **93.09% of positive purchase revenue**
+* The median time to a second purchase was approximately **50 days**
+* **55.18%** of repeat customers returned within 60 days
+* High-Value Active Customers represented **18.23% of customers** and generated **55.05% of revenue**
+* The top 10% of customers generated **61.45% of revenue**
+* The United Kingdom contributed **81.97% of total revenue**
+
+These findings suggest that protecting valuable customer relationships and encouraging suitable one-time customers to return are the clearest areas for further testing.
+
+### Business Overview Dashboard
+
+![Business Overview Dashboard](<img width="1375" height="800" alt="Business Overview png" src="https://github.com/user-attachments/assets/8ca9afee-4ac9-4442-a3a4-6f0c73ee3658" />)
+
+
 
 
 
