@@ -66,8 +66,9 @@ The cleaning process reduced the dataset from 541,909 to 392,692 transaction lin
 CustomerID and InvoiceDate were converted into suitable formats, and Total_price was calculated as Quantity × UnitPrice.
 
 ## Executive Summary
-***<img width="1375" height="800" alt="Business Overview png" src="https://github.com/user-attachments/assets/0c55fd46-5e43-460c-be4a-6096a963b97e" />
-<img width="1375" height="800" alt="Business Overview png" src="https://github.com/user-attachments/assets/80a40604-36fd-48c5-8f2e-4e0c3d606f58" />
+***
+<img width="1375" height="800" alt="Business Overview png" src="https://github.com/user-attachments/assets/0c55fd46-5e43-460c-be4a-6096a963b97e" />
+
 
 
 The analysis shows that the retailer’s revenue depended strongly on customers who purchased more than once.
