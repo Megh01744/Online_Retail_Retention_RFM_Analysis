@@ -1,4 +1,5 @@
-Project Background
+## Project Background
+***
 
 The business represented in the UCI Online Retail dataset is a UK-based, registered non-store retailer that mainly sells unique all-occasion gifts. Many of its customers are wholesalers. The dataset records transactions between 1 December 2010 and 9 December 2011.
 
