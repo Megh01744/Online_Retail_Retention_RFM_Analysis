@@ -8,8 +8,10 @@ Sales show what customers bought, but not whether they returned or which custome
 
 The analysis focuses on three key areas:
 
-- **Repeat Purchasing and Retention: ** Repeat-customer behaviors, monthly cohorts and time to second purchase.
-- **Customer Value and Segmentation: ** Revenue concentration and differences across RFM segments.
-- **Revenue Patterns: ** Monthly performance, order values and country-level contribution.
+- **Repeat Purchasing and Retention:** Repeat-customer behavior, monthly cohorts and time to second purchase.
+- **Customer Value and Segmentation:** Revenue concentration and differences across RFM segments.
+- **Revenue Patterns:** Monthly performance, order values and country-level contribution.
+
+
 
 
