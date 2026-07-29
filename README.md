@@ -27,13 +27,13 @@ The analysis focuses on three key areas:
 
   The SQL analysis notebook can be viewed [here](notebooks/02_Online_Retail_SQL_Analysis.ipynb).
 
-  ## Data Structure & Initial Checks
+## Data Structure & Initial Checks
 
 The original dataset contains **541,909 transaction lines and 8 columns**. Each row represents one product recorded within an invoice.
 
 Initial checks identified the following issues:
 
-| Data-quality issue           | Records |
+| Data-quality issue           | Records |   
 | ---------------------------- | ------: |
 | Missing Customer IDs         | 135,080 |
 | Missing product descriptions |   1,454 |
