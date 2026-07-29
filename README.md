@@ -1,2 +1,15 @@
-# Online_Retail_Retention_RFM_Analysis
-Customer retention, cohort and RFM analysis of UCI Online Retail transactions using Python, SQL and Power BI.
+Project Background
+
+The business represented in the UCI Online Retail dataset is a UK-based, registered non-store retailer that mainly sells unique all-occasion gifts. Many of its customers are wholesalers. The dataset records transactions between 1 December 2010 and 9 December 2011.
+
+The company has a large volume of transaction data covering customer purchases, products, quantities, prices, order dates and customer countries. This project analyses and brings these records together to understand repeat purchasing, monthly customer retention, time to second purchase, revenue concentration and differences across RFM customer segments. The findings highlight practical opportunities for customer engagement, second-purchase campaigns and targeted re-engagement.
+
+Sales show what customers bought, but not whether they returned or which customers generated the most revenue. This project explores repeat purchasing, cohort retention, time to second purchase, revenue concentration and RFM segments.
+
+The analysis focuses on three key areas:
+
+- **Repeat Purchasing and Retention: ** Repeat-customer behaviors, monthly cohorts and time to second purchase.
+- **Customer Value and Segmentation: ** Revenue concentration and differences across RFM segments.
+- **Revenue Patterns: ** Monthly performance, order values and country-level contribution.
+
+
