@@ -21,7 +21,7 @@ The analysis focuses on three key areas:
 - **Customer Value and Segmentation:** Revenue concentration and differences across RFM segments.
 - **Revenue Patterns:** Monthly performance, order values and country-level contribution.
 
-  The interactive Power BI dashboard can be downloaded [here](dashboard/Online_Retail_Retention_RFM_Dashboard.pbix).
+  The interactive Power BI dashboard can be downloaded [here](Online_Retail_Retention_RFM_Dashboard.pbix).
 
 
 
