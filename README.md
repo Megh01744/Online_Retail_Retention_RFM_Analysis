@@ -138,31 +138,6 @@ Revenue increased strongly from September to November, with November recording t
 
 <img width="1382" height="772" alt="rfm_segmentation_retention_risk png" src="https://github.com/user-attachments/assets/f34e7820-d698-452f-8011-5608e8bbba5e" />
 
-## Customer Retention Analysis
-***
-
-### Repeat Purchasing
-
-Of the 4,338 identifiable customers, **2,845 purchased more than once**, giving a repeat-customer rate of **65.58%**.
-
-Repeat customers generated **91.94% of orders and 93.09% of positive purchase revenue**. In comparison, the 1,493 one-time customers contributed only **6.91% of revenue**.
-
-### Monthly Cohort Retention
-
-For most 2011 cohorts, only around **15% to 24% of customers** returned in the month following their first observed purchase. This was the largest drop in the customer journey.
-
-The December 2010 cohort performed better, but it may contain existing customers whose earlier purchases were not included in the dataset.
-
-### Time to Second Purchase
-
-Among repeat customers, the median time to a second purchase was approximately **50 days**.
-
-* **33.64%** returned within 30 days
-* **55.18%** returned within 60 days
-* **67.73%** returned within 90 days
-
-The average was higher at approximately 77 days because some customers took much longer to return.
-
 
 ## Recommendations
 
@@ -186,5 +161,12 @@ Based on customer behavior, the following actions can be tested:
 
 * **Measure impact:** Track second-purchase rate, 60-day repeat rate, reactivation rate, and incremental revenue, ideally against a control group.
 
+## Limitations
+
+* Transactions without a Customer ID were removed, so the analysis covers identifiable customers only.
+* Returns and cancellations were excluded; revenue represents positive purchases, not net revenue.
+* The dataset covers approximately one year, and December 2011 is incomplete.
+* Cohorts represent each customer’s first observed purchase, not confirmed customer acquisition.
+* RFM segments are descriptive and do not predict churn or Customer Lifetime Value.
 
 
