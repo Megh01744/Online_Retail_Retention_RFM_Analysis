@@ -76,10 +76,14 @@ Revenue increased strongly from September to November, with November recording t
 
 <img width="1375" height="800" alt="Business Overview png" src="https://github.com/user-attachments/assets/8ca9afee-4ac9-4442-a3a4-6f0c73ee3658" />
 
+### Customer Retention Findings
+
+* Repeat customers represented **65.58% of customers** and generated **93.09% of positive purchase revenue**.
+* For most 2011 cohorts, only around **15% to 24%** returned in the following month.
+* The median time to a second purchase was approximately **50 days**, with **55.18% returning within 60 days**.
+
 
 ### RFM Segmentation & Retention Risk 
-
-
 
 * **High-Value Active Customers**
 
@@ -132,6 +136,7 @@ Revenue increased strongly from September to November, with November recording t
   * Show minimal recent engagement and low revenue impact
 
   * Suggest that re-engagement should be **selective and value-driven**
+
 
   *RFM segments describe purchasing behavior observed during the dataset period. They do not confirm future churn or customer lifetime value.*
 
