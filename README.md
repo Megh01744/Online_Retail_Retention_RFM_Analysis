@@ -68,21 +68,41 @@ CustomerID and InvoiceDate were converted into suitable formats, and Total_price
 ## Executive Summary
 ***
 
-The analysis shows that the retailer’s revenue depended strongly on customers who purchased more than once.
+The cleaned data contains 4,338 identifiable customers and 18,532 orders, generating £8.89 million in positive purchase revenue. Average order value was £479.56, while 65.58% of customers purchased more than once.
 
-* Repeat customers represented **65.58% of customers** but generated **93.09% of positive purchase revenue**
-* The median time to a second purchase was approximately **50 days**
-* **55.18%** of repeat customers returned within 60 days
-* High-Value Active Customers represented **18.23% of customers** and generated **55.05% of revenue**
-* The top 10% of customers generated **61.45% of revenue**
-* The United Kingdom contributed **81.97% of total revenue**
+Revenue increased strongly from September to November, with November recording the highest complete-month revenue. The United Kingdom contributed 81.97% of total revenue, meaning the overall results mainly reflect UK customer activity.
 
-These findings suggest that protecting valuable customer relationships and encouraging suitable one-time customers to return are the clearest areas for further testing.
 
 ### Business Overview Dashboard
 
 <img width="1375" height="800" alt="Business Overview png" src="https://github.com/user-attachments/assets/8ca9afee-4ac9-4442-a3a4-6f0c73ee3658" />
 
+### RFM Segmentation & Retention Risk: 
+
+** High-Value Active Customers
+* Represented 18.23% of total customers
+* Generated £4.89 million (55.05% of positive revenue)
+* Showed the highest recency and purchase frequency
+* Identified as the most valuable and consistently active segment
+** High-Value At-Risk Customers
+* Total of 715 customers
+* Contributed £1.37 million in revenue
+* Had an average recency of approximately 122 days
+* Previously high value but showing declining engagement
+* Strong candidates for targeted re-engagement campaigns
+** Loyal Customers
+* Contributed 18.60% of total revenue
+* Maintained steady purchasing behavior over time
+* Represent a stable and reliable revenue base
+* Combined High-Value Segments (Active + Loyal + At-Risk)
+* Accounted for roughly 50% of all customers
+* Generated 89.07% of total revenue
+* Indicate strong revenue concentration among high-value groups
+** At-Risk and Inactive Customers
+* Represented 33.08% of total customers
+* Contributed only 4.87% of revenue
+* Show minimal recent engagement and low revenue impact
+* Suggest that re-engagement should be selective and value-driven
 
 
 
