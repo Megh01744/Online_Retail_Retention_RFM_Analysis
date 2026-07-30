@@ -174,4 +174,13 @@ Based on customer behavior, the following actions can be tested:
 * Cohorts represent each customer’s first observed purchase, not confirmed customer acquisition.
 * RFM segments are descriptive and do not predict churn or Customer Lifetime Value.
 
+## Repository Structure
+
+* [`01_Online_Retail_Customer_Retention_and_RFM_Analysis.ipynb`](notebooks/01_Online_Retail_Customer_Retention_and_RFM_Analysis.ipynb) — Python cleaning, validation, retention, cohort, RFM and exploratory analysis.
+* [`02_Online_Retail_SQL_Analysis.ipynb`](notebooks/02_Online_Retail_SQL_Analysis.ipynb) — SQL validation and focused customer-behaviour queries.
+* [`Online_Retail_Retention_RFM_Dashboard.pbix`](Online_Retail_Retention_RFM_Dashboard.pbix) — Interactive Power BI dashboard.
+* `README.md` — Business context, findings, recommendations and limitations.
+
+
+
 
