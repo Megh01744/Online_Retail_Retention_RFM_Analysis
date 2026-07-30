@@ -90,7 +90,7 @@ Revenue increased strongly from September to November, with November recording t
 
   * Generated **£4.89 million (55.05% of positive revenue)**
 
-  * Showed the **highest recency and purchase frequency**
+  * Showed the **most recent purchasing activity and highest average purchase frequency**
 
   * Identified as the most valuable and consistently active segment
 
@@ -106,7 +106,7 @@ Revenue increased strongly from September to November, with November recording t
 
   * Had an average recency of approximately **122 days**
 
-  * Previously high-value but showing declining engagement
+  * Previously high value but showing less recent purchasing activity
 
   * Strong candidates for **targeted re-engagement campaigns**
 
@@ -118,7 +118,7 @@ Revenue increased strongly from September to November, with November recording t
 
   * Contributed **18.60% of total revenue**
 
-  * Maintained steady purchasing behaviour over time
+  * Showed recent and frequent purchasing behaviour
 
   * Represent a stable and reliable revenue base
 
@@ -152,6 +152,35 @@ Revenue increased strongly from September to November, with November recording t
 <img width="1377" height="778" alt="Customer segments   RFM" src="https://github.com/user-attachments/assets/83f6e985-97db-4eb2-b792-8e9a904d9cba" />
 
 
+## Recommendations
+
+
+
+Based on customer behavior, the following actions can be tested:
+
+
+
+* **Encourage a second purchase within 60 days:** The median time to repeat purchase is ~50 days, so reminders and recommendations between 30–60 days may improve retention.
+
+
+
+* **Protect High-Value Active Customers:** This group drives 55.05% of revenue. Maintain engagement through recognition, relevant communication, and early product access.
+
+
+
+* **Prioritize High-Value At-Risk Customers:** These 715 customers generated £1.37M. Start with personalized win-back messages and product reminders before offering incentives.
+
+
+
+* **Develop Potential Loyalists:** Encourage repeat purchases using bundles or complementary product suggestions.
+
+
+
+* **Avoid broad discounts for inactive customers:** They form 33.08% of customers but only 4.87% of revenue, so focus on low-cost re-engagement first.
+
+
+
+* **Measure impact:** Track second-purchase rate, 60-day repeat rate, reactivation rate, and incremental revenue, ideally against a control group.
 
 
 
