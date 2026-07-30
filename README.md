@@ -79,30 +79,77 @@ Revenue increased strongly from September to November, with November recording t
 
 ### RFM Segmentation & Retention Risk: 
 
-** High-Value Active Customers
-* Represented 18.23% of total customers
-* Generated £4.89 million (55.05% of positive revenue)
-* Showed the highest recency and purchase frequency
-* Identified as the most valuable and consistently active segment
-** High-Value At-Risk Customers
-* Total of 715 customers
-* Contributed £1.37 million in revenue
-* Had an average recency of approximately 122 days
-* Previously high value but showing declining engagement
-* Strong candidates for targeted re-engagement campaigns
-** Loyal Customers
-* Contributed 18.60% of total revenue
-* Maintained steady purchasing behavior over time
-* Represent a stable and reliable revenue base
-* Combined High-Value Segments (Active + Loyal + At-Risk)
-* Accounted for roughly 50% of all customers
-* Generated 89.07% of total revenue
-* Indicate strong revenue concentration among high-value groups
-** At-Risk and Inactive Customers
-* Represented 33.08% of total customers
-* Contributed only 4.87% of revenue
-* Show minimal recent engagement and low revenue impact
-* Suggest that re-engagement should be selective and value-driven
+
+
+* **High-Value Active Customers**
+
+
+
+  * Represented **18.23% of total customers**
+
+  * Generated **£4.89 million (55.05% of positive revenue)**
+
+  * Showed the **highest recency and purchase frequency**
+
+  * Identified as the most valuable and consistently active segment
+
+
+
+* **High-Value At-Risk Customers**
+
+
+
+  * Total of **715 customers**
+
+  * Contributed **£1.37 million in revenue**
+
+  * Had an average recency of approximately **122 days**
+
+  * Previously high-value but showing declining engagement
+
+  * Strong candidates for **targeted re-engagement campaigns**
+
+
+
+* **Loyal Customers**
+
+
+
+  * Contributed **18.60% of total revenue**
+
+  * Maintained steady purchasing behaviour over time
+
+  * Represent a stable and reliable revenue base
+
+
+
+* **Combined High-Value Segments (Active + Loyal + At-Risk)**
+
+
+
+  * Accounted for roughly **50% of all customers**
+
+  * Generated **89.07% of total revenue**
+
+  * Indicate strong revenue concentration among high-value groups
+
+
+
+* **At-Risk and Inactive Customers**
+
+
+
+  * Represented **33.08% of total customers**
+
+  * Contributed only **4.87% of revenue**
+
+  * Show minimal recent engagement and low revenue impact
+
+  * Suggest that re-engagement should be **selective and value-driven**
+
+
+
+*RFM segments describe purchasing behaviour observed in the dataset. They do not confirm future 
 
 
 
