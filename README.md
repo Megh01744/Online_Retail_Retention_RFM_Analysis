@@ -138,7 +138,7 @@ Revenue increased strongly from September to November, with November recording t
   * Suggest that re-engagement should be **selective and value-driven**
 
 
-  *RFM segments describe purchasing behavior observed during the dataset period. They do not confirm future churn or customer lifetime value.*
+*RFM segments describe purchasing behavior observed during the dataset period. They do not confirm future churn or customer lifetime value.*
 
 
 <img width="1382" height="772" alt="rfm_segmentation_retention_risk png" src="https://github.com/user-attachments/assets/f34e7820-d698-452f-8011-5608e8bbba5e" />
