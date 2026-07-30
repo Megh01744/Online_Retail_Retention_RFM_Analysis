@@ -77,6 +77,7 @@ Revenue increased strongly from September to November, with November recording t
 
 <img width="1375" height="800" alt="Business Overview png" src="https://github.com/user-attachments/assets/8ca9afee-4ac9-4442-a3a4-6f0c73ee3658" />
 
+
 ### RFM Segmentation & Retention Risk: 
 
 
@@ -148,10 +149,7 @@ Revenue increased strongly from September to November, with November recording t
   * Suggest that re-engagement should be **selective and value-driven**
 
 
-
-*RFM segments describe purchasing behaviour observed in the dataset. They do not confirm future 
-
-
+<img width="1375" height="800" alt="Business Overview png" src="https://github.com/user-attachments/assets/a6d8e3b8-1731-4427-9549-32ac6149561a" />
 
 
 
