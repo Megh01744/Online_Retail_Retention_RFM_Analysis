@@ -149,7 +149,8 @@ Revenue increased strongly from September to November, with November recording t
   * Suggest that re-engagement should be **selective and value-driven**
 
 
-<img width="1375" height="800" alt="Business Overview png" src="https://github.com/user-attachments/assets/a6d8e3b8-1731-4427-9549-32ac6149561a" />
+<img width="1377" height="778" alt="Customer segments   RFM" src="https://github.com/user-attachments/assets/83f6e985-97db-4eb2-b792-8e9a904d9cba" />
+
 
 
 
