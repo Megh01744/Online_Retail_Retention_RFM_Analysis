@@ -28,6 +28,7 @@ The analysis focuses on three key areas:
   The SQL analysis notebook can be viewed [here](notebooks/02_Online_Retail_SQL_Analysis.ipynb).
 
 ## Data Structure & Initial Checks
+***
 
 The original dataset contains **541,909 transaction lines and 8 columns**. Each row represents one product recorded within an invoice.
 
@@ -53,6 +54,7 @@ The RFM data contains `CustomerID`, `Recency`, `Frequency`, `Monetary`, `R_Score
 
 
 ## Data Cleaning & Validation
+***
 
 Before starting the analysis, the data was cleaned for customer behaviour, retention and RFM analysis.
 
